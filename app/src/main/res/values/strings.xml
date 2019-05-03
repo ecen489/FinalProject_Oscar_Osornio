@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Final Project</string>
+    <string name="login">Login</string>
+    <string name="create_account">Create Account</string>
+    <string name="please_input_password">Please Input Password</string>
+    <string name="please_input_e_mail">Please Input E-mail</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="camera">Camera</string>
+    <string name="upload">Upload</string>
+    <string name="select">Select</string>
+    <string name="logout">Logout</string>
+    <string name="todo">TODO</string>
+</resources>
